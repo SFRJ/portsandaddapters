@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop.iml" filepath="$PROJECT_DIR$/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-domain/shop-domain.iml" filepath="$PROJECT_DIR$/shop-domain/shop-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-main/shop-main.iml" filepath="$PROJECT_DIR$/shop-main/shop-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-persistence/shop-persistence.iml" filepath="$PROJECT_DIR$/shop-persistence/shop-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-ui/shop-ui.iml" filepath="$PROJECT_DIR$/shop-ui/shop-ui.iml" />
+    </modules>
+  </component>
+</project>
+
