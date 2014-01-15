@@ -26,6 +26,7 @@
         <module name="shop-main" />
         <module name="shop-persistence" />
         <module name="shop-ui" />
+        <module name="shop-ui-servlet" />
       </profile>
     </annotationProcessing>
   </component>

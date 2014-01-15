@@ -1,6 +1,5 @@
 package com.hexagonal.shop.mainparition;
 
-import com.hexagonal.shop.persistence.Client;
 
 import java.net.URISyntaxException;
 
@@ -25,11 +24,15 @@ public class Main {
 * if (databaseProfile) == "production" ==> new HibernatePriceArchive(new entityManager());
 * if (databaseProfile) == "test" ==> new SystemOutPriceArchive();
 * */
-
+try {
         ShopAssembler shopAssembler = new ShopAssembler();
-        Client client = shopAssembler.assemblyApplication();
-        client.startApplication();
+        ShopServer shopServer = shopAssembler.assemblyApplication();
+        shopServer.start();
 
+}
+catch (Exception e) {
+e.printStackTrace();
+}
          //This is the same than the lines above
         //new ShopAssembler().assemblyApplication().startApplication();
     }

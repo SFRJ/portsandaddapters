@@ -15,6 +15,7 @@
        <module>shop-domain</module>
        <module>shop-main</module>
        <module>shop-persistence</module>
+       <module>shop-ui-servlet</module>
    </modules>
 
   <properties>

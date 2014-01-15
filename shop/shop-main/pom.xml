@@ -17,8 +17,8 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.hexagonal</groupId>
-      <artifactId>shop-ui</artifactId>
+      <groupId>com.hexagonal.servlet</groupId>
+      <artifactId>shop-ui-servlet</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency>
       <dependency>

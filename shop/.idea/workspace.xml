@@ -4,14 +4,14 @@
     <list default="true" id="364300b8-b663-4a1c-a379-acd93e9a353f" name="Default" comment="" />
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386529131660" ignored="false" />
+    <file path="/pom.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389810512480" ignored="false" />
     <file path="/PriceCalculatorTest.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386358600616" ignored="false" />
     <file path="/PriceCalculator.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386370332261" ignored="false" />
     <file path="/a.dummy" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386356937620" ignored="false" />
-    <file path="/fragment.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386368146768" ignored="false" />
+    <file path="/fragment.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389810674360" ignored="false" />
     <file path="/Product.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386357170705" ignored="false" />
     <file path="/ShopService.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386362831184" ignored="false" />
-    <file path="/Main.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386571052069" ignored="false" />
+    <file path="/Main.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389811654111" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386363296333" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386363296333" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386363296333" ignored="false" />
@@ -19,7 +19,7 @@
     <file path="/RealShopService.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386366221029" ignored="false" />
     <file path="/PriceArchive.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386366255289" ignored="false" />
     <file path="/InMemoryPriceArchive.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386367800908" ignored="false" />
-    <file path="/ShopAssembler.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386368371327" ignored="false" />
+    <file path="/ShopAssembler.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389810716883" ignored="false" />
     <file path="$PROJECT_DIR$/../../exchange/pom.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386527430381" ignored="false" />
     <file path="$PROJECT_DIR$/../../exchange/exchange-domain/pom.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386527689503" ignored="false" />
     <file path="$PROJECT_DIR$/../../exchange/.idea/workspace.xml" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386528909893" ignored="false" />
@@ -35,6 +35,9 @@
     <file path="$PROJECT_DIR$/../../exchange/exchange/exchange-domain/src/main/java/com/djordje/exchange/domain/services/ExchangeRatesUpdateService.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386533915604" ignored="false" />
     <file path="$PROJECT_DIR$/../../exchange/exchange/exchange-domain/src/main/java/com/djordje/exchange/domain/ports/USDToBTCExchangeServiceAdapter.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386533915604" ignored="false" />
     <file path="$PROJECT_DIR$/../../exchange/exchange/exchange-domain/src/main/java/com/djordje/exchange/domain/services/USDToBTCExchangeService.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1386533915604" ignored="false" />
+    <file path="/ServletUI.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389813802145" ignored="false" />
+    <file path="/ShopServer.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389813558285" ignored="false" />
+    <file path="/ServletAdapter.java" changelist="364300b8-b663-4a1c-a379-acd93e9a353f" time="1389813602900" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -86,6 +88,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -95,64 +98,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ShopAssembler.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/ShopAssembler.java">
+      <file leaf-file-name="ShopServer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/shop/mainparition/ShopServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="6" selection-start="293" selection-end="293" vertical-scroll-proportion="0.13416816">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriceCalculator.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/core/PriceCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Client.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-ui/src/main/java/com/hexagonal/shop/persistence/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShopService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/ShopService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-domain/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="13" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="17" selection-start="607" selection-end="1093" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="18" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+            <state line="38" column="59" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -160,29 +109,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SystemOutPriceArchive.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-persistence/src/main/java/com/hexagonal/shop/persistence/SystemOutPriceArchive.java">
+      <file leaf-file-name="ServletAdapter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/servlet/ServletAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="1099" selection-end="1099" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriceArchive.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/PriceArchive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="17" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RealShopService.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/RealShopService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="36" column="64" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8270893">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,23 +130,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/hexagonal/shop/commandlineui/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hexagonal/shop/mainparition/Main.java" />
-        <option value="$PROJECT_DIR$/shop-ui/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-domain/pom.xml" />
-        <option value="$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/ShopService.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/shop-ui/src/main/java/com/hexagonal/shop/commandlineui/Client.java" />
         <option value="$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/PriceArchive.java" />
-        <option value="$PROJECT_DIR$/shop-main/pom.xml" />
         <option value="$PROJECT_DIR$/shop-persistence/src/main/java/com/hexagonal/shop/persistence/InMemoryPriceArchive.java" />
         <option value="$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/RealShopService.java" />
         <option value="$PROJECT_DIR$/shop-persistence/src/main/java/com/hexagonal/shop/persistence/SystemOutPriceArchive.java" />
         <option value="$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/core/PriceCalculator.java" />
         <option value="$PROJECT_DIR$/shop-ui/src/main/java/com/hexagonal/shop/persistence/Client.java" />
+        <option value="$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/servlet/ServletUI.java" />
+        <option value="$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/servlet/AdapterUI.java" />
+        <option value="$PROJECT_DIR$/shop-main/pom.xml" />
         <option value="$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/ShopAssembler.java" />
         <option value="$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/Main.java" />
+        <option value="$PROJECT_DIR$/shop-ui-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/shop/mainparition/ShopServer.java" />
+        <option value="$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/servlet/ServletAdapter.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -229,8 +169,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="49" />
     <option name="y" value="24" />
-    <option name="width" value="1319" />
-    <option name="height" value="773" />
+    <option name="width" value="1309" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -283,8 +223,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -303,290 +241,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-ui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="persistence" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mainparition" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop-domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/hexagonal/shop" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="editing.templates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../exchange/exchange" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.hexagonal.shop.domain.services" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hexagonal.shop.mainparition" />
       <recent name="com.hexagonal.shop.domain" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -714,6 +401,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -740,19 +440,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -838,33 +525,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="24" width="1319" height="773" extended-state="0" />
+    <frame x="49" y="24" width="1309" height="743" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.085894406" sideWeight="0.67114097" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.085894406" sideWeight="0.67114097" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37310925" sideWeight="0.5003965" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32605043" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1801731" sideWeight="0.67114097" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18318795" sideWeight="0.6268908" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26042485" sideWeight="0.67114097" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26011103" sideWeight="0.6268908" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37310925" sideWeight="0.49960348" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32718122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -929,55 +616,88 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/RealShopService.java">
+    <entry file="file://$PROJECT_DIR$/shop.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="45" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-domain/src/test/java/com/hexagonal/shop/PriceCalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-ui/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="1" selection-start="246" selection-end="390" vertical-scroll-proportion="0.16042781">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-persistence/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-main/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="29" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-domain/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="13" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="607" selection-end="1093" vertical-scroll-proportion="0.0">
+        <state line="36" column="17" selection-start="607" selection-end="1093" vertical-scroll-proportion="0.77697843">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-domain/src/test/java/com/hexagonal/shop/PriceCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/shop-ui/src/main/java/com/hexagonal/shop/persistence/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="15" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0" />
+        <state line="9" column="13" selection-start="286" selection-end="286" vertical-scroll-proportion="0.15817223">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/core/PriceCalculator.java">
+    <entry file="file://$PROJECT_DIR$/shop-main/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0">
+        <state line="19" column="36" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/ShopAssembler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="286" selection-end="286" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.0-RC5/tomcat-embed-core-8.0.0-RC5.jar!/org/apache/catalina/startup/Tomcat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="0" selection-start="6438" selection-end="6438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.0-RC5/tomcat-embed-core-8.0.0-RC5-sources.jar!/org/apache/catalina/startup/Tomcat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="0" selection-start="11148" selection-end="11148" vertical-scroll-proportion="0.40894568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.0-RC5/tomcat-embed-core-8.0.0-RC5-sources.jar!/org/apache/catalina/Host.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="17" selection-start="2052" selection-end="2052" vertical-scroll-proportion="0.40894568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.0.0-RC5/tomcat-embed-core-8.0.0-RC5-sources.jar!/org/apache/catalina/core/StandardHost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="25" selection-start="1957" selection-end="1969" vertical-scroll-proportion="0.40894568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-ui-servlet/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="907" selection-end="907" vertical-scroll-proportion="0.47923324">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-7-oracle/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="0" selection-start="6215" selection-end="6215" vertical-scroll-proportion="0.36023054">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1118" selection-end="1118" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -989,47 +709,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/PriceArchive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-domain/src/main/java/com/hexagonal/shop/domain/services/RealShopService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+        <state line="9" column="28" selection-start="275" selection-end="290" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-persistence/src/main/java/com/hexagonal/shop/persistence/SystemOutPriceArchive.java">
+    <entry file="file://$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/shop/mainparition/ShopServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="1099" selection-end="1099" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-ui/src/main/java/com/hexagonal/shop/persistence/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="18" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0">
+        <state line="38" column="59" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-main/src/main/java/com/hexagonal/shop/mainparition/ShopAssembler.java">
+    <entry file="file://$PROJECT_DIR$/shop-ui-servlet/src/main/java/com/hexagonal/servlet/ServletAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="6" selection-start="293" selection-end="293" vertical-scroll-proportion="0.13416816">
-          <folding />
+        <state line="36" column="64" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8270893">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
